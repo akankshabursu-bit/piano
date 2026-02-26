@@ -9,7 +9,7 @@ export const Footer: FunctionComponent = () => {
       <a href="https://newline.co/fullstack-react-with-typescript">
         Newline.co
       </a>{" "}
-      | <a href="https://github.com/bespoyasov/react-piano-next">GitHub</a>
+      | <a href="https://github.com/akankshabursu-bit/react-piano-next">GitHub</a>
       <br />
       {currentYear}
     </footer>
